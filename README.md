@@ -1,11 +1,12 @@
 # AUTH APP
 
-using nestjs for backend and reactjs for frontend
+using Nestjs for backend and Reactjs for frontend
 
 # features
 
 - rate limiting
 - JWT Auth (access,refresh token)
+- Guards (access,refresh token)
 - password encryption using argon2
 - context for state managment
 
