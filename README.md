@@ -1,4 +1,4 @@
-# AUTH APP
+# AUTH APP - NESTJS
 
 using Nestjs for backend and Reactjs for frontend
 
